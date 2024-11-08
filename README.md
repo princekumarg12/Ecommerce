@@ -57,7 +57,7 @@ This application can be used as a base for building an eCommerce platform. Add a
 ## Dependencies
 The following are the major dependencies used in this project:
 
-- **Rails 7.2.1**: Core framework for building the application.
+- **Rails 8.0**: Core framework for building the application.
 - **SQLite3**: Development database.
 - **Puma**: Web server for handling requests.
 - **Turbo-Rails & Stimulus**: Hotwire tools for SPA-like interactions.
